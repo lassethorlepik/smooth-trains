@@ -1,0 +1,9 @@
+{
+    "name": "smooth-trains",
+    "version": "0.0.1",
+    "title": "Smooth trains - locomotive",
+    "author": "estgamer",
+    "factorio_version": "1.1",
+    "description": "All locomotive rotations are interpolated to 4X the detail. Check out:\nSmooth trains - cargo wagon\nSmooth trains - fluid wagon\nSmooth trains - artillery wagon\nGraphics upgrade mod. Achieved using custom written software in combination with Topaz video AI Chronos.",
+    "dependencies": ["base >= 0.17.0"]
+  }
